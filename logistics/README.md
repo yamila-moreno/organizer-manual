@@ -16,13 +16,11 @@ Remember that everyone will need power! Often the venue can offer you this, but 
 
 Internet is crucial, so ask your venue provider if they have tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives.
 
-It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
+It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people.
 
 It's also a good idea to have some backup mobile internet and to create a hotspot for attendees if internet is not working properly. Make sure to check - especially during the installation part - if there are problems with the Internet.
 
-### Decorations
-
-Good atmosphere and a friendly experience is extremely important, so if your budget is big enough, don't think twice about [printing some posters](../resources/README.md), buying fresh flowers or bringing nice tablecloths. These small little things can go a long way toward making a better experience for everyone. We all like nice things, right?
+..include:../decorations.md
 
 ## Food
 
@@ -36,7 +34,7 @@ Usually buying some pastries or donuts on the way to the venue is enough. Order 
 
 ### Lunch
 
-Order something fresh and tasty. Plan for ~25% of vegetarian option (some people just prefer veggies even if they are not vegetarians). If you don't have a lot of money, buying bread and a tray of lunch meats and cheeses, plus some peanut butter, at a store so people can make themselves sandwiches is a good option. If your budget allows, remember to ask attendees about dietary restrictions so you can be inclusive in your catering choices! 
+Order something fresh and tasty. Plan for ~25% of vegetarian option (some people just prefer veggies even if they are not vegetarians). If you don't have a lot of money, buying bread and a tray of lunch meats and cheeses, plus some peanut butter, at a store so people can make themselves sandwiches is a good option. If your budget allows, remember to ask attendees about dietary restrictions so you can be inclusive in your catering choices!
 
 ### Drinks
 
@@ -44,11 +42,11 @@ Buy some water, juice and lemons with paper or plastic cups before the event so 
 
 ### Snacks
 
-Have some fresh fruit or healthy snacks (energy bars!) laying around the venue. You can buy these in the store before the event. We recommend fruit that you don't have to cut - apples, grapes, bananas, strawberries, etc. 
+Have some fresh fruit or healthy snacks (energy bars!) laying around the venue. You can buy these in the store before the event. We recommend fruit that you don't have to cut - apples, grapes, bananas, strawberries, etc.
 
 ## Goodies
 
-This is only if you have the budget. 
+This is only if you have the budget.
 
 ### Temporary tattoos!
 
@@ -60,7 +58,7 @@ Order t-shirts for your coaches as a thank-you gift, but wearing the t-shirts al
 
 ### Tote bags
 
-We like tote bags, right? They are pretty cheap to print and it's a nice gift for your attendees that will remind them about the event later on. 
+We like tote bags, right? They are pretty cheap to print and it's a nice gift for your attendees that will remind them about the event later on.
 
 ### Stickers
 
@@ -72,6 +70,6 @@ Pssst, [Stickermule](http://stickermule.com/) likes to sponsor events with stick
 
 This is really nice to have, and sometimes you can get this kind of service for free if you have friends/friendly local people who want to support your initiative. Your venue might have a marketing department that could donate the time of their in-house photographer, so be sure to ask! It's a great memory to have some nice, professional photos or a video from the event. It also helps to use it as marketing material for your next event, plus you have something to show to the sponsors!
 
-If you have resources (money/people), then totally do it. It's worth it! 
+If you have resources (money/people), then totally do it. It's worth it!
 
 You can also add your event's photos to our [Django Girls albums](https://www.flickr.com/photos/128162583@N08/sets). Make sure to provide us information about __a licence of the photo__ - will anyone else be able to use them? For example, other Django Girls organizers? If the photos/video can be used - on what terms?
